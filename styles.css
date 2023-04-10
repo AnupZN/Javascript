@@ -1,0 +1,30 @@
+
+.anup-toc-container{
+    padding: 8px;
+    background-color: beige;
+}
+
+.anup-toc-list{
+    list-style: none;
+    background-color: aqua;
+    border-radius: 8px;
+    padding: 1rem ;
+}
+.anup-toc-list-item{
+    padding: 0.5rem;
+    background-color: aquamarine;
+    
+}
+
+.anup-toc-link{
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+.anup-toc-link:hover{
+    
+}
+
+.anup-toc-h3{
+    margin-left: 2rem;
+}
